@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack Developer | Toronto, ON 🇨🇦<br><br>⚙️ Skills: TypeScript, Node.js, React, MongoDB, Azure<br><br>🎓 Post Grad: Full Stack Software Development<br><br>🚀 Experience: Stablehacks, Syprusinfo Tech Pvt Ltd<br><br>📧 Email: sunnykumar8204@gmail.com
+💻 Full Stack Developer | Toronto, ON 🇨🇦<br><br>⚙️ Skills: TypeScript, Node.js, React, Angular , MongoDB, Azure<br><br>🎓 Post Grad: Full Stack Software Development<br><br>🚀 Experience: Stablehacks, Syprusinfo Tech Pvt Ltd<br><br>📧 Email: sunnykumar8204@gmail.com
 
 
 ## 🌐 Socials:
