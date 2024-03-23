@@ -10,4 +10,6 @@
 
 📧 Email: sunnykumar8204@gmail.com
 ---
+
+[![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnykrda2)](https://github.com/sunnykrda2/github-readme-stats)
 Let's connect and collaborate on exciting projects! 🌟
